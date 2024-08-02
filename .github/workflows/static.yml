@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Veículos Autônomos no Campo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Veículos Autônomos no Campo</h1>
+            <nav>
+                <ul>
+                    <li><a href="#Oque São?">Oque São?</a></li>
+                    <li><a href="#tipos">Tipos de Veículos</a></li>
+                    <li><a href="#beneficios">Benefícios</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="Oque São?" class="section">
+        <div class="container">
+            <h2>Oque São?</h2>
+            <p>Veículos autônomos no campo são uma inovação tecnológica que está transformando a agricultura moderna. Esses veículos, equipados com inteligência artificial e sensores avançados, são capazes de realizar uma variedade de tarefas agrícolas de forma autônoma, sem a necessidade de intervenção humana constante. Aqui estão alguns pontos chave sobre o assunto:</p>
+            <div class="Img1">
+                <img src="autonomo.jpg" alt="Descrição da Imagem">
+            </div>
+        </section>
+
+    <section id="tipos" class="section">
+        <div class="container">
+            <h2>Tipos de Veículos Autônomos</h2>
+            <p>Aqui estão alguns dos principais tipos de veículos autônomos utilizados na agricultura:</p>
+            <ul>
+                <li>Tratores autônomos</li>
+                <li>Drones agrícolas</li>
+                <li>Robôs de colheita</li>
+                <li>Veículos de aplicação de insumos</li>
+                <li>Veículos de transporte e logística</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="beneficios" class="section">
+        <div class="container">
+            <h2>Benefícios dos Veículos Autônomos</h2>
+            <p>Os veículos autônomos oferecem diversos benefícios para a agricultura moderna:</p>
+            <ul>
+                <li>Redução de custos operacionais</li>
+                <li>Aumento da eficiência</li>
+                <li>Preservação do solo</li>
+                <li>Sustentabilidade ambiental</li>
+                <li>Melhoria na segurança</li>
+            </ul>
+        </div>
+    </section>
+
+</body>
+</html>
